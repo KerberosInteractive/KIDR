@@ -1,5 +1,7 @@
 # Kerberos Interactive Data Renamer (KIDR) for Blender
 
+![Alt text for screen readers](kidr_example.gif)
+
 ![Version](https://img.shields.io/badge/version-1.6.0-blue)
 ![Blender](https://img.shields.io/badge/Blender-4.0+-orange)
 

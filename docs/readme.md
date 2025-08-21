@@ -22,7 +22,7 @@ A lightweight, high-performance Blender add-on that batch renames the data-block
 
 ## 💾 Installation
 
-1.  Go to the [Releases page](https://github.com/your-username/your-repo-name/releases) and download the latest `kidr.py` file.
+1.  Go to the [Releases page](https://github.com/KerberosInteractive/KIDR/releases) and download the latest `kidr.py` file.
 2.  In Blender, go to `Edit > Preferences > Add-ons`.
 3.  Click the **Install...** button at the top-right.
 4.  Select the `.py` file you just downloaded.
